@@ -24,3 +24,10 @@ select{
     border-radius: 5px;
     padding: 10px;
 }
+.mapBtn{
+    padding: 5px;
+}
+
+.row maplink{
+    text-decoration: none;
+}
